@@ -1,4 +1,4 @@
-# University Activities: Programming to Solve Problems 💻📚
+# University Activities: Programming to Solve Problems 💻
 
 This repository brings together academic projects and activities developed during my undergraduate studies at the Federal University of ABC (UFABC). Across these activities, I use programming to explore ideas, analyze information, and solve problems related to different subjects.
 
