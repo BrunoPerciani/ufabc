@@ -1,0 +1,13 @@
+﻿Item;Propriedade;Aço SAE 1010;Polipropileno
+a;Módulo de elasticidade aparente, E (GPa);31,4;0,72
+c;Limite de escoamento a 0,2 %, σ_0,2 (MPa);232;não se aplica
+c;Limite de escoamento superior, σ_ys (MPa);362;—
+c;Limite de escoamento inferior, σ_yi (MPa);348;—
+c;Tensão de escoamento (pico), σ_y (MPa);—;29,1
+d;Limite de resistência à tração, σ_u (MPa);458;29,1
+b;Deformação de engenharia na fratura, ε_f (%);38,7;655
+e;Alongamento, %AL (%);37,8;653
+e;Redução de área, %RA (%);d_f não informado;—
+f;Tensão verdadeira na carga máxima, σ_v (MPa);600;33,3
+g;Módulo de resiliência, U_r (kJ/m³);293;588
+h;Módulo de tenacidade, U_t (MJ/m³);160;112
